@@ -232,5 +232,3 @@ end
 
 local HackReceiver = LocalPlayer.Character:FindFirstChild("@H")
 HackReceiver.OnClientEvent:Connect(OnHack)
-end
-   )
